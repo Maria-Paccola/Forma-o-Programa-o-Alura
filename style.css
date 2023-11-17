@@ -1,4 +1,5 @@
-.cabeçalho {
+.cabecalho {
     background-color:cornflowerblue;
     color:black
+    display: flex;
 }
