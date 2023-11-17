@@ -4,5 +4,9 @@
     display: flex;
     justify-content: space-around:
     align-items: center;
+    padding: 24px 0;
+}
 
+.cabecalho-lista-item{
+    display: inline-block;
 }
