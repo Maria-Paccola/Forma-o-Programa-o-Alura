@@ -43,7 +43,7 @@
 
 .curso{
     background-image: linear-gradient(rgb(160, 156, 156));
-    color:white;
+    color:rgb(139, 136, 136);
     display: flex;
     justify-content: center;
     align-items: center;
