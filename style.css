@@ -38,11 +38,11 @@
 .rodape{
 
     text-align: center;
-    background-color: rgba(51, 50, 50, 0.315);
+    background-color: (#A9A9A9);
 }
 
 .curso{
-    background-image: linear-gradient(#69666913, #ebe4ea64);
+    background-image: linear-gradient(#C0C0C0, #D3D3D3);
     color:rgb(8, 0, 0);
     display: flex;
     justify-content: center;
