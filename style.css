@@ -1,5 +1,5 @@
 .cabecalho {
-    background-color:cornflowerblue;
+    background-color:rgb(192, 194, 199);
     color:white;
     display: flex;
     justify-content: space-around;
@@ -38,11 +38,11 @@
 .rodape{
 
     text-align: center;
-    background-color: rgba(0, 68, 255, 0.295);
+    background-color: black;
 }
 
 .curso{
-    background-image: linear-gradient(blue,white);
+    background-image: linear-gradient(rgb(160, 156, 156));
     color:white;
     display: flex;
     justify-content: center;
