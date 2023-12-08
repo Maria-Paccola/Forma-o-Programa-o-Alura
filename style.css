@@ -42,7 +42,7 @@
 }
 
 .curso{
-    background-image: -o-linear-gradient(rgba(143, 140, 140, 0.199));
+    background-image: linear-gradient(#bebcbe, #ebe4ea64);
     color:rgb(8, 0, 0);
     display: flex;
     justify-content: center;
