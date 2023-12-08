@@ -1,5 +1,5 @@
 .cabecalho {
-    background-color: #A9A9A9;
+    background-color: #5392e4b4;
     color:white;
     display: flex;
     justify-content: space-around;
@@ -42,7 +42,7 @@
 }
 
 .curso{
-    background-image: linear-gradient(#a8a7a7ee, #dcdcdcd7);
+    background-image: linear-gradient(#d0dbf1ee, #708ae0d7);
     color:rgb(8, 0, 0);
     display: flex;
     justify-content: center;
