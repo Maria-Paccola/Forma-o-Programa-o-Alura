@@ -42,8 +42,8 @@
 }
 
 .curso{
-    background-image: linear-gradient(rgb(160, 156, 156));
-    color:rgb(139, 136, 136);
+    background-image: linear-gradient(rgba(85, 83, 83, 0.692));
+    color:rgb(8, 0, 0);
     display: flex;
     justify-content: center;
     align-items: center;
